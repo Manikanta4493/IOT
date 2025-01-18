@@ -13,17 +13,17 @@
 }
 
       automatic Street Light on and off
-![image](https://github.com/lakeshmouli/IOT/assets/84567381/7e81265a-2b23-433d-a0eb-bad988c77415)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/84567381/318489345-7e81265a-2b23-433d-a0eb-bad988c77415.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250118T141012Z&X-Amz-Expires=300&X-Amz-Signature=089a5eb424b16c3264d5cca7b9ef601578eb0a42e6e41957d79b16a5c8733193&X-Amz-SignedHeaders=host)
 
       Temparature Sensor
-![image](https://github.com/lakeshmouli/IOT/assets/84567381/ca51c966-54f6-4c2c-83ea-74f909b91633)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/84567381/318503644-ca51c966-54f6-4c2c-83ea-74f909b91633.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250118T141018Z&X-Amz-Expires=300&X-Amz-Signature=a5725c602f05cf531ec55a8475917490612ef59c9caf218272625866c269f655&X-Amz-SignedHeaders=host)
 
       PIP Sensor with led and Buzzer
-![image](https://github.com/lakeshmouli/IOT/assets/84567381/cbf95df1-4153-44df-bc8e-23b581a86d15)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/84567381/318533748-cbf95df1-4153-44df-bc8e-23b581a86d15.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250118T141023Z&X-Amz-Expires=300&X-Amz-Signature=d7b9d9723e711876ba55f9b558eb17ca861ff264c91e15752e33f7279b206958&X-Amz-SignedHeaders=host)
 When the motion is detected the the Buzzer makes sound and led glows
 
       ULTRASONIC SENSOR
-![image](https://github.com/lakeshmouli/IOT/assets/84567381/2ed76273-7895-4d02-ac68-413525fd03ae)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/84567381/318885755-2ed76273-7895-4d02-ac68-413525fd03ae.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250118T141028Z&X-Amz-Expires=300&X-Amz-Signature=55c959904e3865eb5fb5a8f72f50c5ec0c545155f4c96e3de5cd7c97d89e3ff5&X-Amz-SignedHeaders=host)
 
       SERVOMOTOR with cpp
 ![image](https://github.com/lakeshmouli/IOT/assets/84567381/d1de81e1-b75d-4007-82cd-06917196bf4a)
