@@ -5,11 +5,11 @@
 }
     
       RGB LED{
-![image](https://github.com/lakeshmouli/IOT/assets/84567381/9d540658-572f-4daa-9482-f230cac70748)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/84567381/318359492-9d540658-572f-4daa-9482-f230cac70748.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250118T140806Z&X-Amz-Expires=300&X-Amz-Signature=9b8e57802b02351a5fa375e2f1204c37f13b024ce1283344f6b4b88ae3fcd3d6&X-Amz-SignedHeaders=host)
 }
 
       PHOTORESISTOR SENSOR{
-![image](https://github.com/lakeshmouli/IOT/assets/84567381/8582c0af-589c-4d84-b666-1307dacd20a7)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/84567381/318428428-8582c0af-589c-4d84-b666-1307dacd20a7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250118T140831Z&X-Amz-Expires=300&X-Amz-Signature=6f764b19b8a52c5d371d4fd8043720064021620023c13ceaea8452925b915c8b&X-Amz-SignedHeaders=host)
 }
 
       automatic Street Light on and off
