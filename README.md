@@ -26,12 +26,12 @@ When the motion is detected the the Buzzer makes sound and led glows
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/84567381/318885755-2ed76273-7895-4d02-ac68-413525fd03ae.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250118T141028Z&X-Amz-Expires=300&X-Amz-Signature=55c959904e3865eb5fb5a8f72f50c5ec0c545155f4c96e3de5cd7c97d89e3ff5&X-Amz-SignedHeaders=host)
 
       SERVOMOTOR with cpp
-![image](https://github.com/lakeshmouli/IOT/assets/84567381/d1de81e1-b75d-4007-82cd-06917196bf4a)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/84567381/318895509-d1de81e1-b75d-4007-82cd-06917196bf4a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250118T141219Z&X-Amz-Expires=300&X-Amz-Signature=5ad0f3068d776172cf87f58c96e3d5ca0130deeafe32a9581011bb8aae1694ad&X-Amz-SignedHeaders=host)
 
       DC MOTOR USING ARDUINO AND L293D
-![image](https://github.com/lakeshmouli/IOT/assets/84567381/21b3eb18-53e7-4b5b-bc84-a88b38a8a634)'
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/84567381/319076451-21b3eb18-53e7-4b5b-bc84-a88b38a8a634.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250118T141225Z&X-Amz-Expires=300&X-Amz-Signature=a899a9156e25f758e9c8db188e22c7bff9662153b2ceef43d8e4eeff22f573cb&X-Amz-SignedHeaders=host)'
 L293D IS USED TO CONTROL THE DC MOTOR TO ROTATE CLOCKWISE,ANTI-CLOCKWISE AND STOP
 ONLY ARDUINO BOARD CANNOT CONTROL THE DC MOTOR
 
-![image](https://github.com/lakeshmouli/IOT/assets/84567381/e14d6ce9-999a-47b8-bfb9-6c0155bf4dd7)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/84567381/324260154-e14d6ce9-999a-47b8-bfb9-6c0155bf4dd7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250118T141230Z&X-Amz-Expires=300&X-Amz-Signature=7be5b06d70dd00e63d4d2c9ffb1280d224b402802a2e4e0a18ef2655132610e0&X-Amz-SignedHeaders=host)
 
